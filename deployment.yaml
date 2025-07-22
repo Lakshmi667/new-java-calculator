@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: calculator
-        image: shubhamjamwadikar503/crud-app:latest
+        image: glakshmi502/crud-app:latest
         ports:
         - containerPort: 8080
